@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: trongAgentPool
+pool: Default
 
 steps:
 - script: echo Hello, world!
